@@ -14,7 +14,7 @@ here are the outlines to which things that we need
 - _programming_ (static vs dynamic)  <br />
 - _programming_ (eyes, user eyes) <br />
 
-- [x]happy tell us
-- []also happy tell us
+- [x] happy tell us
+- [] also happy tell us
 
 >thanks for sharing your hearts
